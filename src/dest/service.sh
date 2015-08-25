@@ -8,7 +8,7 @@
 framework_version="2.1"
 name="svn"
 version="1.9.0"
-description="Subversion version control system v1.9.0"
+description="Subversion centralized version control"
 depends=""
 webui=""
 
